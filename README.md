@@ -1503,7 +1503,7 @@
 #### Tasks
 > Data Structure(Compulsory)
 - [ ] [Median of two sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
-- [ ] [https://www.geeksforgeeks.org/karatsuba-algorithm-for-fast-multiplication-using-divide-and-conquer-algorithm/)
+- [ ] [Karatsuba Algorithm](https://www.geeksforgeeks.org/karatsuba-algorithm-for-fast-multiplication-using-divide-and-conquer-algorithm/)
 > Research In Security
 - [ ] 
 - [ ] 
@@ -1512,4 +1512,4 @@
 - [ ] 
 
 
-# The Finish Mark of 100 Days of Code Successfully  :fire:. Reach this or be a p**** and keep whining. Let's go you got this king :crown:.
+## The Finish Mark of 100 Days of Code Successfully  :fire:. Reach this or be a p**** and keep whining. Let's go you got this king :crown:.
