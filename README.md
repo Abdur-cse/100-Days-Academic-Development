@@ -1,5 +1,9 @@
 # 100 Days of Academic Development
 
+
+[1](#day-1)  [2](#day-2)  [3](#day-3)  [4](#day-4)  [5](#day-5)  [6](#day-6)  [7](#day-7)  [8](#day-8)  [9](#day-9)  [10](#day-10)  [11](#day-11)  [12](#day-12)  [13](#day-13)  [14](#day-14)  [15](#day-15)  [16](#day-16)  [17](#day-17)  [18](#day-18)  [19](#day-19)  [20](#day-20)  [21](#day-21)  [22](#day-22)  [23](#day-23)  [24](#day-24)  [25](#day-25)  [26](#day-26)  [27](#day-27)  [28](#day-28)  [29](#day-29)  [30](#day-30)  [31](#day-31)  [32](#day-32)  [33](#day-33)  [34](#day-34)  [35](#day-35)  [36](#day-36)  [37](#day-37)  [38](#day-38)  [39](#day-39)  [40](#day-40)  [41](#day-41)  [42](#day-42)  [43](#day-43)  [44](#day-44)  [45](#day-45)  [46](#day-46)  [47](#day-47)  [48](#day-48)  [49](#day-49)  [50](#day-50)  [51](#day-51)  [52](#day-52)  [53](#day-53)  [54](#day-54)  [55](#day-55)  [56](#day-56)  [57](#day-57)  [58](#day-58)  [59](#day-59)  [60](#day-60)  [61](#day-61)  [62](#day-62)  [63](#day-63)  [64](#day-64)  [65](#day-65)  [66](#day-66)  [67](#day-67)  [68](#day-68)  [69](#day-69)  [70](#day-70)  [71](#day-71)  [72](#day-72)  [73](#day-73)  [74](#day-74)  [75](#day-75)  [76](#day-76)  [77](#day-77)  [78](#day-78)  [79](#day-79)  [80](#day-80)  [81](#day-81)  [82](#day-82)  [83](#day-83)  [84](#day-84)  [85](#day-85)  [86](#day-86)  [87](#day-87)  [88](#day-88)  [89](#day-89)  [90](#day-90)  [91](#day-91)  [92](#day-92)  [93](#day-93)  [94](#day-94)  [95](#day-95)  [96](#day-96)  [97](#day-97)  [98](#day-98)  [99](#day-99)  [100](#day-100)
+
+
 ## Data Structure and Algorithms
 - This would contain post links to 3 DSA questions everyday, from Day 1 to Day 100, handpicked from FAANG.
 - You should spend atleast 4 hrs a day going from naive approach to the optimal approach of the question, but there is no fast and hard rules.
@@ -14,7 +18,7 @@
 
 ### **Day 0 (The Change Day)**
 #### Tasks
-- [ ] [Learn C++ STL Basics before proceeding]()
+- [ ] [Learn C++ STL Basics before proceeding](https://www.youtube.com/watch?v=mOzPZ3hWFVQ&t=486s)
 
 ---
 
@@ -25,9 +29,6 @@
 - [ ] [Merge Overlapping Intervals](https://www.geeksforgeeks.org/merging-intervals/)
 - [ ] [Duplicates in an array](https://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -42,9 +43,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -55,9 +53,6 @@
 - [ ] [Stock Buy and Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 - [ ] [Rotate Matrix](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -72,9 +67,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -85,9 +77,6 @@
 - [ ] [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 - [ ] [Equilibrium Point](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -102,9 +91,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -115,9 +101,6 @@
 - [ ] [Print Matrix in snake Pattern](https://www.geeksforgeeks.org/print-matrix-snake-pattern/)
 - [ ] [Print a given matrix in spiral form](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -132,9 +115,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -145,9 +125,6 @@
 - [ ] [Search in row-wise and column-wise sorted](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)
 - [ ] [Find the row with maximum number of 1s](https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -162,9 +139,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -175,9 +149,6 @@
 - [ ] [Longest Sub-Array with Sum K ](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
 - [ ] [Longest subarray with sum divisible by K](https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -192,9 +163,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -205,9 +173,6 @@
 - [ ] [Check for subarray with given sum](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)
 - [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -222,9 +187,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -235,9 +197,6 @@
 - [ ] [Floor in a Sorted Array](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)
 - [ ] [Count occurrences in a sorted array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -252,9 +211,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -265,9 +221,6 @@
 - [ ] [Find Transition Point in a Sorted Binary Array](https://www.geeksforgeeks.org/find-transition-point-binary-array/)
 - [ ] [Last index of One](https://www.geeksforgeeks.org/find-last-index-character-string/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -282,9 +235,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -295,9 +245,6 @@
 - [ ] [Check if array is sorted](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive/)
 - [ ] [Sort a binary array](https://www.geeksforgeeks.org/sort-binary-array-using-one-traversal/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -312,9 +259,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -327,9 +271,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -340,9 +281,6 @@
 - [ ] [Relative Sorting](https://leetcode.com/problems/relative-sort-array/)
 - [ ] [Sorting elements by frequency](https://www.geeksforgeeks.org/sort-elements-by-frequency/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -358,9 +296,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -371,9 +306,6 @@
 - [ ] [Matrix Median](https://www.geeksforgeeks.org/n-th-root-number/)
 - [ ] [Find the element that appears once in sorted array, and rest element appears twice](https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -388,9 +320,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -402,9 +331,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -414,9 +340,6 @@
 - [ ] [Bishu and Soldiers](https://www.hackerearth.com/problem/algorithm/bishu-and-soldiers-227/)
 - [ ] [Painter's Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -431,9 +354,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -444,9 +364,6 @@
 - [ ] [n-th node from end of a linked list](https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/)
 - [ ] [Delete a node](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -461,9 +378,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -474,9 +388,6 @@
 - [ ] [Segregate even and odd (Using only one traversal)](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -491,9 +402,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -504,9 +412,6 @@
 - [ ] [Reverse a Linked List in groups of given size](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/)
 - [ ] [Check for palindrome](https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -521,9 +426,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -534,9 +436,6 @@
 - [ ] [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/)
 - [ ] [Circular Linked List](https://www.geeksforgeeks.org/circular-linked-list/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -551,9 +450,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -564,9 +460,6 @@
 - [ ] [Clone a linked list with random pointers](https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/)
 - [ ] [Add 1 to a number represented as linked list](https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -581,9 +474,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -594,9 +484,6 @@
 - [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Union of Two Linked Lists](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -611,9 +498,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -624,9 +508,6 @@
 - [ ] [Insert in Sorted way in a Sorted DLL](https://www.geeksforgeeks.org/insert-value-sorted-way-sorted-doubly-linked-list/)
 - [ ] [QuickSort on Doubly Linked List](https://www.geeksforgeeks.org/quicksort-for-linked-list/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -641,9 +522,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -654,9 +532,6 @@
 - [ ] [Implement Queues using Arrays](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
 - [ ] [Implement Stacks using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -671,9 +546,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -684,9 +556,6 @@
 - [ ] [Sort a Stack](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 - [ ] [Next Smaller Element](https://www.geeksforgeeks.org/next-smaller-element/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -701,9 +570,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -714,9 +580,6 @@
 - [ ] [Largest Rectangle in Histogram (Two Pass)](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
 - [ ] [Sliding Window Maximum - Priority Queue Method](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -731,9 +594,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -746,9 +606,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -757,9 +614,6 @@
 > Data Structure(Compulsory)
 - [ ] Rest Day! You have succesfully grinded for 50 days. Let's go king for another 50 days. You got this :crown:.
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -774,9 +628,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -787,9 +638,6 @@
 - [ ] [Bottom View of Binary Tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)
 - [ ] [Top View of Binary Tree](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -804,9 +652,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -817,9 +662,6 @@
 - [ ] [LCA in Binary Tree](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
 - [ ] [Check if two trees are identical or not](https://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -834,9 +676,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -847,9 +686,6 @@
 - [ ] [Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - [ ] [Check if Binary Tree is mirror of itself or not ](https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -864,9 +700,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -877,9 +710,6 @@
 - [ ] [Find LCA of two nodes in BST ](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 - [ ] [Find the inorder predecessor/successor of a given Key in BST](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -894,9 +724,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -907,9 +734,6 @@
 - [ ] [BST iterator ](https://leetcode.com/problems/binary-search-tree-iterator/)
 - [ ] [Size of the largest BST in a Binary Tree ](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -924,9 +748,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -937,9 +758,6 @@
 - [ ] [Distinct numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
 - [ ] [K-th largest element in an unsorted array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -954,9 +772,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -967,9 +782,6 @@
 - [ ] [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 - [ ] [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -984,9 +796,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -997,9 +806,6 @@
 - [ ] [Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
 - [ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1014,9 +820,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1027,9 +830,6 @@
 - [ ] [MST using Kruskal’s Algo](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 - [ ] [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1044,9 +844,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1057,9 +854,6 @@
 - [ ] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
 - [ ] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1074,9 +868,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1087,9 +878,6 @@
 - [ ] [Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change/0)
 - [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1104,9 +892,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1119,9 +904,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1132,9 +914,6 @@
 - [ ] [Word Break](https://www.geeksforgeeks.org/word-break-problem-dp-32/)
 - [ ] [Palindrome Partitioning (MCM Variation)](https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1150,9 +929,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1163,9 +939,6 @@
 - [ ] [Kth - Permutation Sequence](https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/)
 - [ ] [Print all permutations of a string/array](https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1180,9 +953,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1195,9 +965,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1206,9 +973,6 @@
 - [ ] [Handshakes Problem]()
 - [ ] [Tower of Hanoi]()
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1223,9 +987,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1236,9 +997,6 @@
 - [ ] [Find all four sum numbers](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 - [ ] [Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1253,9 +1011,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1266,9 +1021,6 @@
 - [ ] [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 - [ ] [Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1283,9 +1035,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1296,9 +1045,6 @@
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 - [ ] [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1313,9 +1059,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1326,9 +1069,6 @@
 - [ ] [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0)
 - [ ] [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1343,9 +1083,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1356,9 +1093,6 @@
 - [ ] [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits/0)
 - [ ] [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1373,9 +1107,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1386,9 +1117,6 @@
 - [ ] [Alone in a couple](https://practice.geeksforgeeks.org/problems/alone-in-couple/0)
 - [ ] [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1403,9 +1131,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1416,9 +1141,6 @@
 - [ ] [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
 - [ ] [Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1433,9 +1155,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1446,9 +1165,6 @@
 - [ ] [Shop in Candy Store](https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0)
 - [ ] [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1463,9 +1179,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1476,9 +1189,6 @@
 - [ ] [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1)
 - [ ] [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1)
 > Research In Security
-- [ ] 
-- [ ] 
-> Full Stack Development
 - [ ] 
 - [ ] 
 
@@ -1493,9 +1203,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 ---
 
@@ -1507,9 +1214,6 @@
 > Research In Security
 - [ ] 
 - [ ] 
-> Full Stack Development
-- [ ] 
-- [ ] 
 
 
-## The Finish Mark of 100 Days of Code Successfully  :fire:. Reach this or be a p**** and keep whining. Let's go you got this king :crown:.
+### The Finish Mark of 100 Days of Code :fire:. Fork to get started :crown:.
