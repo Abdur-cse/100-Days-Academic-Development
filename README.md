@@ -10,7 +10,7 @@
 
 ### **Day 0 (The Change Day)**
 #### Tasks
-- [ ] [Learn C++ STL Basics before proceeding](https://www.youtube.com/watch?v=mOzPZ3hWFVQ&t=486s)
+- [x] [Learn C++ STL Basics before proceeding](https://www.youtube.com/watch?v=mOzPZ3hWFVQ&t=486s)
 
 ---
 
