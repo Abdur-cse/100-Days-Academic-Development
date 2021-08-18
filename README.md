@@ -17,9 +17,9 @@
 ### **Day 1**
 #### Tasks
 > Data Structure(Compulsory)
-- [ ] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
-- [ ] [Merge Overlapping Intervals](https://www.geeksforgeeks.org/merging-intervals/)
-- [ ] [Duplicates in an array](https://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] [Merge Overlapping Intervals](https://www.geeksforgeeks.org/merging-intervals/)
+- [x] [Duplicates in an array](https://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/)
 
 ---
 
