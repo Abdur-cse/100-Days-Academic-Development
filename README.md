@@ -26,9 +26,9 @@
 ### **Day 2**
 #### Tasks
 > Data Structure(Compulsory)
-- [ ] [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
-- [ ] [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation/0)
+- [x] [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [x] [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation/0)
 
 ---
 
