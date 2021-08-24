@@ -35,9 +35,9 @@
 ### **Day 3**
 #### Tasks
 > Data Structure(Compulsory)
-- [ ] [Inversion of Array](https://www.geeksforgeeks.org/counting-inversions/)
-- [ ] [Stock Buy and Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
-- [ ] [Rotate Matrix](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
+- [x] [Inversion of Array](https://www.geeksforgeeks.org/counting-inversions/)
+- [x] [Stock Buy and Sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [x] [Rotate Matrix](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
 
 ---
 
