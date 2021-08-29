@@ -44,9 +44,9 @@
 ### **Day 4**
 #### Tasks
 > Data Structure(Compulsory)
-- [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-- [ ] [Majority Element(>n/2 times)](https://www.geeksforgeeks.org/majority-element/)
-- [ ] [Majority Element(>n/3 times)](https://www.geeksforgeeks.org/n3-repeated-number-array-o1-space/)
+- [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [x] [Majority Element(>n/2 times)](https://www.geeksforgeeks.org/majority-element/)
+- [x] [Majority Element(>n/3 times)](https://www.geeksforgeeks.org/n3-repeated-number-array-o1-space/)
 
 ---
 
